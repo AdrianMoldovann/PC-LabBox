@@ -1,0 +1,4 @@
+1(SPI)      |	https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi
+2(7805)	    |	https://www.electronicsforu.com/technology-trends/learn-electronics/7805-ic-voltage-regulator
+3(Seeeduino)|	https://wiki.seeedstudio.com/Seeeduino-XIAO/
+4(RTC)	    |	http://bildr.org/2011/03/ds1307-arduino/
